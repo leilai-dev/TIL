@@ -19,6 +19,10 @@ VMWare, Memu player 등
 ## Hyper-v 끄기 / 켜기
 [Hyper-V 와 vmware 의 공존( 하나의 PC에서 두가지 동시 사용) :: 잡스러운 것의 집합] (https://crazyits.tistory.com/entry/Hyper-V-와-vmware-의-공존-하나의-PC에서-두가지-동시-사용)
 
+**Hyper-v 끄면 윈도우에서 Docker Desktop 사용 불가능**
+
+Hyper-v로 도커 컨테이너 올리나보다...
+
 ### 끄기
 ```
 bcdedit /set hypervisorlaunchtype off
