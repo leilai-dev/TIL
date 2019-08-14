@@ -9,7 +9,9 @@ WIP 189XX 버전에서 해결되었다는 간증 확인
 [amd ryzen - Can't activate hardware acceleration using windows 10 family and amd processor - Super User] (https://superuser.com/questions/1401671/cant-activate-hardware-acceleration-using-windows-10-family-and-amd-processor)
 
 하이퍼-v 키면 e495는 에러 발생 못써먹겠음
+
 어쨌든 프리뷰버전에서 현재 하이퍼-v키고 사용중
+(Build 18956)
 
 그러나 하이퍼-v 실행 중일 때 일부 가상화 앱들이 오류 발생
 VMWare, Memu player 등
