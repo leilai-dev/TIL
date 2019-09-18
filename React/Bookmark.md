@@ -8,3 +8,7 @@
 [Supported Browsers and Features · Create React App] (https://create-react-app.dev/docs/supported-browsers-features)
 
 [browserl.ist: A page to display compatible browsers from a browserslist string.] (https://browserl.ist/)
+
+## 
+[React - Role Based Authorization Tutorial with Example | Jason Watmore's Blog] (https://jasonwatmore.com/post/2019/02/01/react-role-based-authorization-tutorial-with-example)
+-> 사용자 역할 기반 인증처리를 어떻게 해야할 것인지 자세한 코드 리뷰
