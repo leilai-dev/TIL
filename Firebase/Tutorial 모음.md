@@ -1,3 +1,11 @@
+# 기본 튜토리얼
+[A Firebase in React Tutorial for Beginners [2019] - RWieruch] (https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial)
+-> 코드 리팩토링 하면서 단계별 진행. 개념 잡기 좋음
+
+[the-road-to-react-with-firebase/react-firebase-authentication: 🔥Boilerplate Project for Authentication with Firebase in React.] (https://github.com/the-road-to-react-with-firebase/react-firebase-authentication)
+-> 위 튜토리얼의 깃헙 리포
+
+
 # 기본 채팅 앱
 [firebase/friendlychat-web: The source for the Firebase codelab for building a cross-platform chat app] (https://github.com/firebase/friendlychat-web)
 -> 해당 리포를 베이스로
@@ -16,6 +24,7 @@
 -> 데이터베이스, 함수, 호스팅 활용
 
 [Firestripe!!!!111oneoneone] (https://payforallthethings.firebaseapp.com/)
+
 
 ## GitHub demo
 [willianwelbert/react-ecomm: A complex e-comm app using React, Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase, Styled-Components...] (https://github.com/willianwelbert/react-ecomm)
